@@ -1,0 +1,20 @@
+## COMANDOS TERMINAL
+
+* ~ no terminal significa a raíz do usuário (Users/lipereis)
+* pwd - mostra em qual pasta estamos
+* open . - abre a pagina atual no finder
+* ls  -  lista os arquivos do diretório atual
+* ls -la - lista detalhadamente os arquivos do diretório atual
+    * -l - mostra os arquivos detalhadamente
+    * -a - mostra os arquivos ocultos
+* cd <nome-da-pasta> - “change directory” usada para mudar o diretório
+* cd .. - volta para o diretório anterior
+* cd - se inserir só cd, ele volta automaticamente para a pasta base (~)
+* mkdir <nome-da-pasta - cria uma nova pasta no diretório selecionado
+* mv <pasta-a-ser-movida> <pasta-destino> - move um arquivo para uma pasta destino
+* touch <nome-do-arquivo-com-extensao> - cria um arquivo
+* vim <nome-do-arquivo> - permite abrir um arquivo direto no terminal
+* curl <nome-do-site> - permite acessar uma página web pelo terminal (curl wttr.in/Recife)
+
+
+===============================================
