@@ -1,3 +1,5 @@
+****** HELLO WORLD, this is a test file! ******
+
 ## COMANDOS TERMINAL
 
 * ~ no terminal significa a raíz do usuário (Users/lipereis)
@@ -15,6 +17,8 @@
 * touch <nome-do-arquivo-com-extensao> - cria um arquivo
 * vim <nome-do-arquivo> - permite abrir um arquivo direto no terminal
 * curl <nome-do-site> - permite acessar uma página web pelo terminal (curl wttr.in/Recife)
-
+* nano <nome-do-arquivo> - abre e possibilita a edição de um arquivo
+* cat <nome-do-arquivo> - imprime o arquivo de texto no terminal
+* say "<nome-do-arquivo>" - uma voz lê o texto entre aspas say "muito bom kkk"
 
 ===============================================
