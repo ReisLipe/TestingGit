@@ -21,4 +21,5 @@
 * cat <nome-do-arquivo> - imprime o arquivo de texto no terminal
 * say "<nome-do-arquivo>" - uma voz lê o texto entre aspas say "muito bom kkk"
 
+I love Xande Avião.
 ===============================================
