@@ -22,4 +22,5 @@
 * say "<nome-do-arquivo>" - uma voz lê o texto entre aspas say "muito bom kkk"
 
 I love Xande Avião.
+Thorin
 ===============================================
