@@ -20,6 +20,8 @@
 * nano <nome-do-arquivo> - abre e possibilita a edição de um arquivo
 * cat <nome-do-arquivo> - imprime o arquivo de texto no terminal
 * say "<nome-do-arquivo>" - uma voz lê o texto entre aspas say "muito bom kkk"
+* git config --global user.name "<nome-novo>" - troca o nome universal
+* git config --global user.email "<nome-novo>" - troca o email universal
 
 I love Xande Avião.
 Thorin
